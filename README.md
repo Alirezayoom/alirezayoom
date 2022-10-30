@@ -13,7 +13,7 @@
 <img src="https://img.icons8.com/color/344/css3.png" alt="css3" width="40" height="40"/> 
 </a>
 <a href="https://sass-lang.com/" target="_blank">
-<img src="https://img.icons8.com/color/344/sass.png" alt="sass" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/sass.png" alt="sass" width="40" height="40"/>
 </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://img.icons8.com/color/344/bootstrap.png" alt="bootstrap" width="40" height="40"/> 
