@@ -35,8 +35,4 @@
 
 </p><br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alirezayoom&show_icons=true&locale=en&layout=compact&theme=dark" alt="alirezayoom" /></p> 
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alirezayoom&show_icons=true&locale=en&theme=dark" alt="alirezayoom" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alirezayoom&theme=dark" alt="alirezayoom" /></p>
