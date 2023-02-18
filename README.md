@@ -23,6 +23,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="javascript" width="40" height="40"/> 
 </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<img src="https://img.icons8.com/color/256/typescript.png" alt="typescript" width="40" height="40"/> 
+</a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://img.icons8.com/color/344/react-native.png" alt="react" width="40" height="40"/> 
 </a> 
