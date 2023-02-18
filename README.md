@@ -31,8 +31,6 @@
 <img src="https://img.icons8.com/color/344/nextjs.png" alt="nextjs" width="40" height="40"/>
 </a>
 </p>
-<br>
-
 <h4 align="center">Tools:</h4>
 <p align="center">
 <a href="https://linux.org" target="_blank" rel="noreferrer"> 
