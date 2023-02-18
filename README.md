@@ -1,10 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Alireza</h1>
-<h3 align="center">Front-end web developer</h3>
+[![Alireza's GitHub Banner](./assets/banner.svg)](https://github.com/Alirezayoom)
+<br><br>
 
-<h4 align="center">Languages and Tools:</h4>
-<p align="center"> 
-
-
+<h4 align="center">Languages & Frameworks:</h4>
+<p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://img.icons8.com/color/344/html-5--v1.png" alt="html5" width="40" height="40"/> 
 </a> 
@@ -32,10 +30,28 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/color/344/nextjs.png" alt="nextjs" width="40" height="40"/>
 </a>
+</p>
+<br>
+
+<h4 align="center">Tools:</h4>
+<p align="center">
+<a href="https://linux.org" target="_blank" rel="noreferrer"> 
+<img src="https://img.icons8.com/color/256/linux.png" alt="git" width="40" height="40"/> 
+</a>
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
+<img src="https://img.icons8.com/color/256/visual-studio-code-2019.png" alt="git" width="40" height="40"/> 
+</a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.icons8.com/color/256/github--v1.png" alt="git" width="40" height="40"/> 
+</a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://img.icons8.com/color/344/git.png" alt="git" width="40" height="40"/> 
-</a> 
+</a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.icons8.com/color/256/npm.png" alt="git" width="40" height="40"/> 
+</a>
+</p>
 
-</p><br>
+<br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alirezayoom&theme=dark" alt="alirezayoom" /></p>
