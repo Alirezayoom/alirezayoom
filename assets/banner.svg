@@ -3,13 +3,13 @@
 <svg width="1499.9" height="499.99" version="1.1" viewBox="0 0 1499.9 499.99" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <linearGradient id="linearGradient15197" x1=".0023788" x2="1499.9" y1=".0093347" y2="500" gradientTransform="translate(-.0023788 -.0093347)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#0f0c29" offset="0"/>
-   <stop stop-color="#302b63" offset=".50551"/>
-   <stop stop-color="#0f0c29" offset="1"/>
+   <stop stop-color="#232526" offset="0"/>
+   <stop stop-color="#414345" offset=".50551"/>
+   <stop stop-color="#232526" offset="1"/>
   </linearGradient>
  </defs>
  <g>
-  <rect width="1499.9" height="499.99" fill="url(#linearGradient15197)" fill-rule="evenodd" stroke-width="17.138" style="mix-blend-mode:multiply"/>
+  <rect width="1499.9" height="499.99" fill="url(#linearGradient15197)" fill-rule="evenodd" stroke-width="17.138" />
   <text x="97.786766" y="404.69968" fill="#ffffff" font-family="'Abyssinica SIL'" font-size="106.67px" letter-spacing="-1px" style="line-height:1.25" xml:space="preserve"><tspan x="97.786766" y="404.69968" fill="#ffffff" font-family="Montserrat" font-size="106.67px" font-weight="800">ALIREZA KARIMI</tspan></text>
   <text x="91.429443" y="449.70471" fill="#ffffff" font-family="'Abyssinica SIL'" font-size="42.667px" letter-spacing="-1px" style="line-height:1.25" xml:space="preserve"><tspan x="91.429443" y="449.70471" fill="#ffffff" font-family="Montserrat" font-size="42.667px">FRONT-END WEB DEVELOPER</tspan></text>
  </g>
