@@ -1,4 +1,4 @@
-<p style="text-align: center; margin: 16px;">
+<p align="center">
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
 <img src="./assets/tailwindcss.svg" alt="tailwind" width="40" height="40"/> 
 </a>
